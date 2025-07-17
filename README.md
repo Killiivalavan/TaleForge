@@ -1,4 +1,4 @@
-# Interactive AI-Powered Story Generator
+# TaleForge
 
 An interactive, text-based adventure game where players make decisions that influence the progression and outcome of the story. Stories are dynamically generated using an AI model (via Ollama) based on user choices and selected genres.
 
